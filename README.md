@@ -1,2 +1,2 @@
-# Text Classification using Metadata
- based on Journal: Text Mining using Metadata for Generation Side Information
+# Text Clustering using Metadata on Muwatta Hadith
+Improve k-means clustering using algorithm called Content and Auxiliary attribute Based Text Clustering (COATES) which is based on a journal: "Text Mining using Metadata for Generation Side Information" by Shraddha S. Bhanuse, Shailesh D. Kamble, and Sandeep M. Kakde. This project was a collaboration with my colleague in Mathematics and Computer Science concentration, Indri Nurandini. The algorithm, results, and analysis of these methods are presented in her journal: "Klastering Dokumen dengan Menambahkan Metadata Menggunakan Algoritma COATES" at: https://journal.uinsgd.ac.id/index.php/kubik/article/view/1859
